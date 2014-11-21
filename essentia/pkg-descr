@@ -1,0 +1,8 @@
+Essentia is an open-source C++ library for audio analysis and audio-based music
+information retrieval released under the Affero GPL license. It contains an
+extensive collection of reusable algorithms which implement audio input/output
+functionality, standard digital signal processing blocks, statistical
+characterization of data, and a large set of spectral, temporal, tonal and
+high-level music descriptors. 
+
+WWW: http://essentia.upf.edu

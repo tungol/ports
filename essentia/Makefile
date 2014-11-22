@@ -2,12 +2,13 @@
 
 # https://github.com/MTG/essentia/archive/v2.0.1.tar.gz
 PORTNAME=	essentia
-PORTVERSION=	2.0.1
+PORTVERSION=	2.0.1.20141121
 CATEGORIES=	audio
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	tungol
 GH_COMMIT=	960b045
+GH_TAGNAME=	${GH_COMMIT}
 
 MAINTAINER=	essentia@tungol.org
 COMMENT=	Analyze audio files

@@ -5,7 +5,7 @@ PORTVERSION=	0.1
 CATEGORIES=	audio
 
 MAINTAINER=	ports@tungol.org
-COMMENT=	Submit audio data to acousticbrainz
+COMMENT=	Submit audio features to AcousticBrainz
 
 LICENSE=	GPLv3
 

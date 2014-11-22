@@ -5,7 +5,7 @@ PORTVERSION=	0.11
 CATEGORIES=	games
 MASTER_SITES=	http://nih.at/ckmame/
 
-MAINTAINER=	ckmame@tungol.org
+MAINTAINER=	ports@tungol.org
 COMMENT=	Check ROM sets for MAME
 
 LICENSE=	BSD3CLAUSE

@@ -4,7 +4,7 @@ PORTNAME=	essentia
 PORTVERSION=	2.0.1.20141119
 CATEGORIES=	audio
 
-MAINTAINER=	essentia@tungol.org
+MAINTAINER=	ports@tungol.org
 COMMENT=	Analyze audio files
 
 LICENSE=	AGPLv3
